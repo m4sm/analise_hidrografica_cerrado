@@ -1,0 +1,18 @@
+{
+  "total_estacoes_cerrado": 807,
+  "media_geral_cerrado_mm": 1446.6,
+  "tocantins": {
+    "miracema": {
+      "codigo": "948000",
+      "periodo": "1969-2019",
+      "media_anual_mm": 1742.5,
+      "max_dias_secos": 91
+    },
+    "conceicao": {
+      "codigo": "1247000",
+      "periodo": "1973-2019",
+      "media_anual_mm": 1302.5,
+      "max_dias_secos": 110
+    }
+  }
+}
